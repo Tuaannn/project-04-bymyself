@@ -504,7 +504,7 @@ a {
 
 .feature-image {
     position: relative;
-    width: 52.4%;
+    width: 50%;
 }
 
 .featue-image__img {
@@ -516,12 +516,12 @@ a {
 }
 
 .feature-content {
-    width: 47.6%;
+    width: 50%;
     align-self: center;
 }
 
 .feature-content__desc {
-    width: 91.7%;
+    width: 87.3%;
     margin-top: 24px;
     color: var(--text-color);
     font-size: 1.6rem;
